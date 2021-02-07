@@ -8,6 +8,12 @@ h1 {
   margin-left: 1090px;
     font-size: 35px;
 }
+h2{
+    margin-left: 1090px;
+}
+p{
+    margin-left: 1080px;font-size: 25px;
+}
 
 @keyframes bio {
     0% {
